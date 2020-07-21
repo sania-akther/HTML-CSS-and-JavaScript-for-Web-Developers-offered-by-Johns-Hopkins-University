@@ -16,10 +16,10 @@ This repository contains all of the source code used in the course called HTML, 
 
 # Outputs :
 
-* [Module-2](https://sania-akther.github.io/HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins-University/module2-solution/)
-* [Module-3](https://sania-akther.github.io/module3-solution/module3-solution/)
-* [Module-4](https://sania-akther.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/module4-solution/)
-* [Module-5](https://sania-akther.github.io/module5-solution/module5-solution/)
+* [Module-2](https://sania-akther.github.io/HTML-CSS-and-JavaScript-for-Web-Developers-offered-by-Johns-Hopkins-University/assignments/module2-solution/)
+* [Module-3](https://sania-akther.github.io/HTML-CSS-and-JavaScript-for-Web-Developers-offered-by-Johns-Hopkins-University/assignments/module3-solution/)
+* [Module-4](https://sania-akther.github.io/HTML-CSS-and-JavaScript-for-Web-Developers-offered-by-Johns-Hopkins-University/assignments/module4-solution/)
+* [Module-5](https://sania-akther.github.io/HTML-CSS-and-JavaScript-for-Web-Developers-offered-by-Johns-Hopkins-University/assignments/module5-solution/)
 
 
 >Never stop trying, deal it with a smile.
